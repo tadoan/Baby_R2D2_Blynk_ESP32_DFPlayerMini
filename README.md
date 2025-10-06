@@ -1,8 +1,16 @@
-# Baby_R2D2_Controller
+# Baby_R2D2_Controller  *** Now works with ESP32!!! ***
 
 ***THIS REPO IS STILL A WORK IN PROGRESS***
 
 This is a controller for the Baby R2 unit from Michael Bradeley (https://www.patreon.com/mrbaddeley).  It is currently designed for controlling the three servos and a speaker using an ESP8266 nodemcu board.  User control is done using the Blynk IoT Platform.  User control is done using a custom Blynk App which can downloaded by scanning the QR code at the bottom of this readme into the Blynk application on your mobile phone.
+
+*** Updated *** to be used with ESP32 boards.
+Pin layout:
+left motor: 25
+right motor: 26
+dome: 27
+rx: 16
+tx: 17
 
 ## Required Software/Libraries
 ESP32 2.0.17, don't compile using latest 3.x updates since certain inconsistencies haven't been resolved.
