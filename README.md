@@ -40,7 +40,8 @@ I have chosen this layout, it's efficient and simple.  You will at a minimum nee
 
 <img src="https://user-images.githubusercontent.com/7434662/120407188-9fa6b200-c31a-11eb-9a0c-2b6b9e48dc27.PNG" height="300" />
 Select the "Joystick" option by clicking on it.  Switch from "split" to "merge" and for the pin select "V0".  When you're finished press "OK" in the upper right corner.
-*NOTE* Split/Merge option no longer exists.  It has been replaced with "Simple/Advance". Select the V0 datastream.  RE: V0 datastream, simply select "string" and save.
+
+*NOTE* Split/Merge option no longer exists.  It has been replaced with "Simple/Advance". Select "Advance" and the V0 datastream.  RE: V0 datastream, simply select "string" and save.
 
 <img src="https://user-images.githubusercontent.com/7434662/120407701-af72c600-c31b-11eb-890c-46038e86c878.PNG" height="300" />
 Select the left head spin button.  Select the pin and change it to virtual and "V2".  When you're finished press "OK" in the upper right 
