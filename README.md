@@ -66,4 +66,5 @@ Select the first button that will be used for noises.  Select the pin and change
 Press the "play button" in the upper right hand corner and the app is ready.
 
 Note about Sound Player:
+I ignored all previous instructions regarding V5-V7 and created buttons that correspond to the track file I wanted to play.
 You can have as many files on your SD card as you want.  The V1 datastream simply sends the button number that you select as tracknr to be played.  Create as many buttons as you want and direct it towards V1, with "On" = to the file number you want to play.
